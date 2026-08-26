@@ -1,0 +1,19 @@
+{
+  "name": "First Group - نظام إدارة المبيعات",
+  "short_name": "First Group",
+  "description": "نظام نقاط بيع متكامل لمحلات الموبايل والإكسسوارات وقطع الغيار",
+  "start_url": "./first_group_pos.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#170B2E",
+  "theme_color": "#7C3AED",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
