@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/kv-bulk", "destination": "/api/kv-bulk" },
+    { "source": "/kv/:key", "destination": "/api/kv/:key" },
+    { "source": "/", "destination": "/api/index" }
+  ]
+}
